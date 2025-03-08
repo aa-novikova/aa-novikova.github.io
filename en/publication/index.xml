@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Публикации | My Site</title>
+    <link>https://aa-novikova.github.io/en/publication/</link>
+      <atom:link href="https://aa-novikova.github.io/en/publication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Публикации</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 08 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://aa-novikova.github.io/media/icon_hu_645fa481986063ef.png</url>
+      <title>Публикации</title>
+      <link>https://aa-novikova.github.io/en/publication/</link>
+    </image>
+    
+    <item>
+      <title>Непрерывная интеграция и развертывание</title>
+      <link>https://aa-novikova.github.io/en/publication/01/</link>
+      <pubDate>Sat, 08 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://aa-novikova.github.io/en/publication/01/</guid>
+      <description>&lt;h1 id=&#34;непрерывная-интеграция-и-развертывание-cicd&#34;&gt;Непрерывная интеграция и развертывание (CI/CD)&lt;/h1&gt;
+&lt;h2 id=&#34;введение&#34;&gt;Введение&lt;/h2&gt;
+&lt;p&gt;CI/CD (Continuous Integration / Continuous Deployment) — это ключевая практика DevOps, направленная на автоматизацию процессов разработки, тестирования и развертывания программного обеспечения. Она позволяет ускорить выпуск новых версий продуктов, минимизировать ошибки и повышать надежность кода.&lt;/p&gt;
+&lt;h2 id=&#34;непрерывная-интеграция-ci&#34;&gt;Непрерывная интеграция (CI)&lt;/h2&gt;
+&lt;p&gt;Непрерывная интеграция — это процесс автоматического объединения изменений кода в общий репозиторий и их тестирования. Основные цели CI:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Обнаружение ошибок на ранних этапах разработки.&lt;/li&gt;
+&lt;li&gt;Уменьшение конфликтов при объединении кода разных разработчиков.&lt;/li&gt;
+&lt;li&gt;Автоматическое выполнение тестов перед внесением изменений в основную ветку.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;CI включает в себя системы автоматического тестирования, статического анализа кода и линтинга, что помогает поддерживать качество продукта.&lt;/p&gt;
+&lt;h2 id=&#34;непрерывное-развертывание-cd&#34;&gt;Непрерывное развертывание (CD)&lt;/h2&gt;
+&lt;p&gt;CD включает два этапа:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Непрерывная доставка (Continuous Delivery)&lt;/strong&gt; — процесс автоматической подготовки кода к развертыванию. После успешного тестирования код может быть развернут в продакшн вручную.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Непрерывное развертывание (Continuous Deployment)&lt;/strong&gt; — процесс автоматического развертывания проверенного кода в продакшн без вмешательства разработчиков.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;преимущества-cicd&#34;&gt;Преимущества CI/CD&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Скорость&lt;/strong&gt;: обновления выходят быстрее, пользователи получают новые функции без длительных ожиданий.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Надежность&lt;/strong&gt;: автоматическое тестирование снижает количество ошибок на продакшене.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Гибкость&lt;/strong&gt;: упрощается выпуск небольших изменений и исправлений.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Прозрачность&lt;/strong&gt;: команды разработки могут отслеживать изменения и тестовые результаты в реальном времени.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;заключение&#34;&gt;Заключение&lt;/h2&gt;
+&lt;p&gt;CI/CD — это неотъемлемая часть современной разработки ПО. Автоматизация процессов интеграции и развертывания позволяет разработчикам сосредоточиться на создании нового функционала, а пользователям — получать стабильные обновления без простоев.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
