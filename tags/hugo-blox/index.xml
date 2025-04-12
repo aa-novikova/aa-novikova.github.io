@@ -5,12 +5,29 @@
     <link>https://aa-novikova.github.io/tags/hugo-blox/</link>
       <atom:link href="https://aa-novikova.github.io/tags/hugo-blox/index.xml" rel="self" type="application/rss+xml" />
     <description>Hugo Blox</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Mon, 31 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Sat, 12 Apr 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://aa-novikova.github.io/media/icon_hu_645fa481986063ef.png</url>
       <title>Hugo Blox</title>
       <link>https://aa-novikova.github.io/tags/hugo-blox/</link>
     </image>
+    
+    <item>
+      <title>Моя неделя</title>
+      <link>https://aa-novikova.github.io/post/04/</link>
+      <pubDate>Sat, 12 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://aa-novikova.github.io/post/04/</guid>
+      <description>&lt;h2 id=&#34;-небольшой-отчёт-о-неделе&#34;&gt;✍️ Небольшой отчёт о неделе&lt;/h2&gt;
+&lt;p&gt;Неделя прошла под знаком баланса между «строгой» математикой и вполне практическими задачами. Вот основные вехи:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Разобралась с понятием устойчивости решений в вариационных задачах. Теоретически — сложно, но красиво. Особенно интересно наблюдать, как такие задачи возникают в физике и механике.&lt;/li&gt;
+&lt;li&gt;На семинаре по программированию реализовали метод итераций — наконец увидела, как численные методы работают «вживую», а не только в абстрактных формулах.&lt;/li&gt;
+&lt;li&gt;Погрузилась в тему тензоров. Пока на базовом уровне, но уже начала видеть, как это применяется в задачах из механики сплошных сред.&lt;/li&gt;
+&lt;li&gt;Нашла статью по символьным вычислениям в Wolfram Mathematica — оказалось, что автоматизация алгебраических преобразований может серьёзно упростить работу с уравнениями.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;В целом неделя прошла интенсивно, но с чувством прогресса. Особенно ценно, когда теория начинает «работать» в задачах.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Моя неделя</title>

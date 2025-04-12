@@ -5,7 +5,7 @@
     <link>https://aa-novikova.github.io/project/</link>
       <atom:link href="https://aa-novikova.github.io/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Thu, 26 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Sat, 12 Apr 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://aa-novikova.github.io/media/icon_hu_645fa481986063ef.png</url>
       <title>Projects</title>
@@ -13,27 +13,35 @@
     </image>
     
     <item>
-      <title>Pandas</title>
-      <link>https://aa-novikova.github.io/project/pandas/</link>
-      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://aa-novikova.github.io/project/pandas/</guid>
-      <description>&lt;p&gt;Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>PyTorch</title>
-      <link>https://aa-novikova.github.io/project/pytorch/</link>
-      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://aa-novikova.github.io/project/pytorch/</guid>
-      <description>&lt;p&gt;PyTorch is a Python package that provides tensor computation (like NumPy) with strong GPU acceleration.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>scikit-learn</title>
-      <link>https://aa-novikova.github.io/project/scikit/</link>
-      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://aa-novikova.github.io/project/scikit/</guid>
-      <description>&lt;p&gt;scikit-learn is a Python module for machine learning built on top of SciPy and is distributed under the 3-Clause BSD license.&lt;/p&gt;</description>
+      <title>Зачем учёному персональный сайт и почему Hugo — отличный выбор</title>
+      <link>https://aa-novikova.github.io/project/hugo/</link>
+      <pubDate>Sat, 12 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://aa-novikova.github.io/project/hugo/</guid>
+      <description>&lt;p&gt;В современном научном мире границы между офлайн- и онлайн-присутствием давно стерлись. Если вас нельзя найти в интернете — вас словно нет. Именно поэтому персональный сайт для исследователя уже давно перестал быть прихотью и превратился в мощный инструмент коммуникации, карьерного роста и публичности. А с появлением таких решений, как &lt;strong&gt;Hugo Academic&lt;/strong&gt;, сделать такой сайт стало куда проще, чем кажется.&lt;/p&gt;
+&lt;h2 id=&#34;цифровой-след-учёного&#34;&gt;Цифровой след учёного&lt;/h2&gt;
+&lt;p&gt;Опубликовать статью — это только половина дела. Важно, чтобы её нашли. А ещё лучше — чтобы нашли вас. Персональный сайт решает сразу несколько задач:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Он собирает в одном месте все ваши работы, проекты, лекции, интервью и гранты.&lt;/li&gt;
+&lt;li&gt;Он даёт быстрый и понятный способ связаться с вами.&lt;/li&gt;
+&lt;li&gt;Он демонстрирует, что вы — активный участник научного сообщества, а не просто имя в списке авторов.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;К тому же, сайт — это шанс рассказать о себе в своей собственной подаче, без формализма академических резюме.&lt;/p&gt;
+&lt;h2 id=&#34;почему-именно-hugo-academic&#34;&gt;Почему именно Hugo Academic?&lt;/h2&gt;
+&lt;p&gt;Решений для создания сайта сейчас множество, но Hugo Academic (он же Hugo Scholar) выгодно выделяется своей специализацией. Это не просто генератор красивых страниц — это система, созданная с прицелом на нужды исследователей:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Удобное представление публикаций, проектов и преподавательской деятельности.&lt;/li&gt;
+&lt;li&gt;Поддержка импорта данных из научных баз и профилей.&lt;/li&gt;
+&lt;li&gt;Элегантный, минималистичный дизайн без лишнего шума.&lt;/li&gt;
+&lt;li&gt;Возможность адаптировать сайт под себя, не углубляясь в код.&lt;/li&gt;
+&lt;li&gt;Быстрое и бесплатное размещение на популярных хостингах.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;В результате вы получаете сайт, который выглядит профессионально, легко обновляется и работает быстро даже на слабом интернете.&lt;/p&gt;
+&lt;h2 id=&#34;что-это-даёт-в-итоге&#34;&gt;Что это даёт в итоге?&lt;/h2&gt;
+&lt;p&gt;Персональный сайт превращает вас из строки в таблице в реального человека с идеями, опытом и историей. Это особенно важно для молодёжи в науке, где каждая точка входа может стать новой возможностью — будь то приглашение на конференцию, коллаборация или просто интересный диалог.&lt;/p&gt;
+&lt;p&gt;Hugo Academic позволяет сконцентрироваться на сути — вашем контенте. Технологии остаются фоном, не отвлекая от главного — науки и её распространения.&lt;/p&gt;
+&lt;h2 id=&#34;вместо-вывода&#34;&gt;Вместо вывода&lt;/h2&gt;
+&lt;p&gt;Если вы до сих пор откладывали создание сайта «на потом» — возможно, сейчас самое время. Сайт на Hugo — это инвестиция в свою репутацию и видимость, которая обязательно окупится. Наука должна быть не только точной, но и доступной. И сайт — ваш первый шаг в этом направлении.&lt;/p&gt;
+</description>
     </item>
     
   </channel>
